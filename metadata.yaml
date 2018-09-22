@@ -1,10 +1,13 @@
 _repo: Wilderness-Babies_55704
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Huybers, John
     gutenberg_agent_id: '48461'
     url: http://www.gutenberg.org/2009/agents/48461
+covers:
+- cover_type: archival
+  image_path: 55704-h/images/cover.jpg
 creator:
   author:
     agent_name: Schwartz, Julia Augusta
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '31648'
     url: http://www.gutenberg.org/2009/agents/31648
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55704#Wilderness-Babies
 gutenberg_issued: '2017-10-08'
 gutenberg_type: Text
 identifiers:
